@@ -1,10 +1,12 @@
 id: some-PIIs
 
 # some-PIIS
+## This Template could lead to false positives, so you can erase some patterns if you want
+## Twitter @bhataasim9 Github @bhataasim1
 
 info:
   name: some-PIIs
-  author: w9w
+  author: Ax01sec
   severity: medium
   description: some-PIIs
 
